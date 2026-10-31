@@ -2,3 +2,5 @@ ultralytics>=8.4.0
 gradio>=4.44.0
 torch>=2.2.0
 pillow>=10.0.0
+opencv-python-headless
+numpy
